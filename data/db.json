@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Said",
+            "lastName": "Ravest",
+            "email": "said.ravest@gmail.com",
+            "status": true,
+            "hobbys":[
+                "Estudiar Javascript",
+                "Crossfit",
+                "Karate",
+                "Dibujar",
+                "Tatuajes"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Pedro",
+            "lastName": "Perez",
+            "email": "Pedro.Perez@gmail.com",
+            "status": false,
+            "hobbys":[
+                "ver tv"
+            ]
+        }
+    ]
+}
